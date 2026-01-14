@@ -1,14 +1,7 @@
 # Hi there! 👋 I'm alexwelsh07
 
-## 🏆 GitHub Achievements Earned
-
-- Quickdraw
-- YOLO
-- Pull Shark
-- Heart on Your Sleeve
-- Pair Extraordinaire (manual)
-- Galaxy Brain (manual)
-- Starstruck (organic growth)
+## I'm a keen programmer that works on personal projects constantly, very interested in AI / ML.
+## I have work experience in many sectors and have been programming for ~ 6 years
 
 ## 📊 GitHub Stats
 
@@ -22,14 +15,6 @@
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
-
----
-
-### 🎯 Currently collecting all GitHub achievement badges!
-
-**Automated badges earned:** 5
-
-**Total progress:** 7 badges/achievements tracked
 
 ---
 
