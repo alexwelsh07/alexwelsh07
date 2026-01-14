@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm alexwelsh07
 
-## I'm a keen programmer that works on personal projects constantly, very interested in AI / ML.
-## I have work experience in many sectors and have been programming for ~ 6 years
+## I'm a keen coder / developer that works on personal projects constantly, very interested in AI / ML.
+## I have work experience in many sectors and have been developing projects for ~ 6 years
 
 ## 📊 GitHub Stats
 
