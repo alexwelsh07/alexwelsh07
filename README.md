@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi there! 👋 I'm alexwelsh07
 
-<!--
-**alexwelsh07/alexwelsh07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🏆 GitHub Achievements Earned
 
-Here are some ideas to get you started:
+- Quickdraw
+- YOLO
+- Pull Shark
+- Heart on Your Sleeve
+- Pair Extraordinaire (manual)
+- Galaxy Brain (manual)
+- Starstruck (organic growth)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+
+![alexwelsh07's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexwelsh07&show_icons=true&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alexwelsh07&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexwelsh07&layout=compact&theme=radical)
+
+## 🔥 Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
+### 🎯 Currently collecting all GitHub achievement badges!
+
+**Automated badges earned:** 5
+
+**Total progress:** 7 badges/achievements tracked
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=alexwelsh07&color=blueviolet)
+[![GitHub followers](https://img.shields.io/github/followers/alexwelsh07?label=Follow&style=social)](https://github.com/alexwelsh07)
+
+*Last updated: 2026-01-14 16:37:39*
