@@ -1,9 +1,5 @@
 # Hi there! 👋 I'm alexwelsh07
 
-## 🏆 GitHub Achievements Earned
-
-- Heart on Your Sleeve
-
 ## 📊 GitHub Stats
 
 ![alexwelsh07's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexwelsh07&show_icons=true&theme=radical)
@@ -20,11 +16,6 @@
 ---
 
 ### 🎯 Currently collecting all GitHub achievement badges!
-
-**Automated badges earned:** 1
-
-**Total progress:** 1 badges/achievements tracked
-
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=alexwelsh07&color=blueviolet)
