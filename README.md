@@ -1,7 +1,8 @@
 # Hi there! 👋 I'm alexwelsh07
 
-## I'm a keen coder / developer that works on personal projects constantly, very interested in AI / ML.
-## I have work experience in many sectors and have been developing projects for ~ 6 years
+## 🏆 GitHub Achievements Earned
+
+- YOLO
 
 ## 📊 GitHub Stats
 
@@ -18,7 +19,15 @@
 
 ---
 
+### 🎯 Currently collecting all GitHub achievement badges!
+
+**Automated badges earned:** 1
+
+**Total progress:** 1 badges/achievements tracked
+
+---
+
 ![Profile Views](https://komarev.com/ghpvc/?username=alexwelsh07&color=blueviolet)
 [![GitHub followers](https://img.shields.io/github/followers/alexwelsh07?label=Follow&style=social)](https://github.com/alexwelsh07)
 
-*Last updated: 2026-01-14 16:37:39*
+*Last updated: 2026-01-15 17:41:27*
